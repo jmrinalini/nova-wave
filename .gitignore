@@ -1,0 +1,31 @@
+
+# Python virtual environment
+nova_venv/
+venv/
+env/
+
+# Dataset - kept locally
+dataset/
+
+# Temporary audio recordings
+*.wav
+*.mp3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
